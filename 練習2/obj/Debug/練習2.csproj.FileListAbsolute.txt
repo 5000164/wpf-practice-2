@@ -1,0 +1,13 @@
+C:\Users\hiroshi\Development\Practice\c_sharp\練習2\練習2\bin\Debug\練習2.exe.config
+C:\Users\hiroshi\Development\Practice\c_sharp\練習2\練習2\bin\Debug\練習2.exe
+C:\Users\hiroshi\Development\Practice\c_sharp\練習2\練習2\bin\Debug\練習2.pdb
+C:\Users\hiroshi\Development\Practice\c_sharp\練習2\練習2\obj\Debug\MainWindow.baml
+C:\Users\hiroshi\Development\Practice\c_sharp\練習2\練習2\obj\Debug\MainWindow.g.cs
+C:\Users\hiroshi\Development\Practice\c_sharp\練習2\練習2\obj\Debug\App.g.cs
+C:\Users\hiroshi\Development\Practice\c_sharp\練習2\練習2\obj\Debug\練習2_MarkupCompile.cache
+C:\Users\hiroshi\Development\Practice\c_sharp\練習2\練習2\obj\Debug\練習2.g.resources
+C:\Users\hiroshi\Development\Practice\c_sharp\練習2\練習2\obj\Debug\練習2.Properties.Resources.resources
+C:\Users\hiroshi\Development\Practice\c_sharp\練習2\練習2\obj\Debug\練習2.csproj.GenerateResource.Cache
+C:\Users\hiroshi\Development\Practice\c_sharp\練習2\練習2\obj\Debug\練習2.exe
+C:\Users\hiroshi\Development\Practice\c_sharp\練習2\練習2\obj\Debug\練習2.pdb
+C:\Users\hiroshi\Development\Practice\c_sharp\練習2\練習2\obj\Debug\練習2.csprojResolveAssemblyReference.cache
