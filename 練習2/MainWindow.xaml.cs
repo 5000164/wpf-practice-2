@@ -28,18 +28,18 @@ namespace 練習2
         private void Window_PreviewKeyDown(object sender, KeyEventArgs e)
         {
             // 現在地を取得
-            Double leftPosition = Canvas.GetLeft(player);
-            Double topPosition = Canvas.GetTop(player);
+            Double leftPosition = Canvas.GetLeft(this.pointer);
+            Double topPosition = Canvas.GetTop(this.pointer);
             
             // 入力された方向キーの方向へ移動
             if (e.Key == Key.Up)
-                Canvas.SetTop(player, topPosition - 10);
+                Canvas.SetTop(this.pointer, topPosition - 10);
             else if (e.Key == Key.Down)
-                Canvas.SetTop(player, topPosition + 10);
+                Canvas.SetTop(this.pointer, topPosition + 10);
             else if (e.Key == Key.Left)
-                Canvas.SetLeft(player, leftPosition - 10);
+                Canvas.SetLeft(this.pointer, leftPosition - 10);
             else if (e.Key == Key.Right)
-                Canvas.SetLeft(player, leftPosition + 10);
+                Canvas.SetLeft(this.pointer, leftPosition + 10);
         }
     }
 }

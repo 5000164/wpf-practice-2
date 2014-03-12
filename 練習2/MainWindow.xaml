@@ -5,7 +5,7 @@
         PreviewKeyDown="Window_PreviewKeyDown">
     <Grid>
         <Canvas>
-            <Rectangle Name="player" Width="10" Height="10"  Fill="Red" Canvas.Left="0" Canvas.Top="0" />
+            <Rectangle Name="pointer" Width="10" Height="10" Fill="Red" Canvas.Left="0" Canvas.Top="0" />
         </Canvas>
     </Grid>
 </Window>
